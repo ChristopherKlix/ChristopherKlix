@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm a Data Engineer and Full Stack Developer working at Enerparc AG in Hamburg, Germany.
+
+## Skills
+
+[![Skills](https://skillicons.dev/icons?i=python)](https://github.com/christopherklix)
 
 <!--
 **ChristopherKlix/ChristopherKlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
